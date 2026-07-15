@@ -15,7 +15,7 @@
 
 ## 🚀 What I Build
 
-I'm a CSE (Cyber Security) student at **R V College of Engineering, Bengaluru**, and I love building things end to end from React front ends to secure FastAPI/Node backends. Lately I've been deep into applied AI, especially Retrieval-Augmented Generation, and tinkering with modern C++ on the side just to see what's really going on under the hood. Always happy to nerd out about any of it feel free to reach out! 🙂
+I'm a CS (Cyber Security) student at **R V College of Engineering, Bengaluru**, and I love building things end to end — from React front ends to secure FastAPI/Node backends. Lately I've been deep into applied AI, especially Retrieval-Augmented Generation, and tinkering with modern C++ on the side just to see what's really going on under the hood. Always happy to nerd out about any of it — feel free to reach out! 🙂
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
@@ -60,7 +60,7 @@ I'm a CSE (Cyber Security) student at **R V College of Engineering, Bengaluru**,
 
 ### 🌟 Thanks for stopping by! 🌟
 
-Always up for a chat about code, cyber security, or anything AI don't be a stranger 👋
+Always up for a chat about code, cyber security, or anything AI — don't be a stranger 👋
 
 </div>
 
