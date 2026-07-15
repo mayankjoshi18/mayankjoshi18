@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Studying%20CS%20(Cyber%20Security)%20at%20R%20V%20College%20of%20Engineering&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+# Hi, I'm Mayank 👋
+
+Studying CS (Cyber Security) at R V College of Engineering
 
 <br/>
 
