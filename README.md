@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mayank%20Joshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20%2B%20AI%20Systems%20%C2%B7%20Cyber%20Security&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Studying%20CS%20(Cyber%20Security)%20at%20R%20V%20College%20of%20Engineering&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=764ABA&center=true&vCenter=true&width=550&height=40&lines=Full-stack+Development;AI+%26+RAG+Pipelines;Cyber+Security" />
 
@@ -17,7 +17,7 @@
 
 ## 🚀 What I Build
 
-I like working across the stack from React front ends to secure FastAPI/Node backends with a growing focus on applied AI, especially Retrieval-Augmented Generation. I'm also into modern C++ on the side, mostly to understand what's happening under the hood.
+I'm a CS (Cyber Security) student at **R V College of Engineering, Bengaluru**, and I love building things end to end — from React front ends to secure FastAPI/Node backends. Lately I've been deep into applied AI, especially Retrieval-Augmented Generation, and tinkering with modern C++ on the side just to see what's really going on under the hood. Always happy to nerd out about any of it — feel free to reach out! 🙂
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
@@ -59,7 +59,11 @@ I like working across the stack from React front ends to secure FastAPI/Node bac
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 <div align="center">
-<sub>Thanks for stopping by ⭐</sub>
+
+### 🌟 Thanks for stopping by! 🌟
+
+Always up for a chat about code, cyber security, or anything AI — don't be a stranger 👋
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
